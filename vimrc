@@ -1,5 +1,7 @@
 set nocompatible
 
+call pathogen#infect()
+
 let mapleader = ','
 set number
 set ruler
